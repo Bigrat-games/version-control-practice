@@ -3,5 +3,5 @@
 
 void Crypt::DisplayMessage() // Declaration for .h file
 {
-    std::cout << "Welcome to the Version Control Crypt!\n";
+	std::cout << "The crypt keeper has awakened!\n";
 }
